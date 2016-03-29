@@ -16,6 +16,12 @@
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
+[Green's function]()
+
+  * [Variable Density](./green/variable_density/vd2016-03-29.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
 
