@@ -22,6 +22,12 @@
   * [SubPage2](subpage/page2.md)
   * [SubPage3](subpage/page3.md)
 
+[Geo]()
+
+  * [GDA94](./geodetic/gd2016-04-07.md)
+  * [SubPage2](subpage/page2.md)
+  * [SubPage3](subpage/page3.md)
+
 <!-- set a default theme -->
 [gimmick:theme (inverse: false)](bootstrap)
 
